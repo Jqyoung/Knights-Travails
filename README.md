@@ -2,6 +2,9 @@
 
 From [The Odin Project curriculum](https://www.theodinproject.com/lessons/javascript-knights-travails), This project uses a graph data structure and the Breadth First Search algorithm to find the shortest path from a starting square to a destination square for a knight on a chessboard.
 
+![output image](/img/screenshot01.png)
+![output image 02](/img/screenshot02.png)
+
 ## What I learned
 
 - The concept of a graph data structure as well as its implementation using adjacency list and adjacency matrix.
